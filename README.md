@@ -1,10 +1,9 @@
 # Personal-Portfolio
+This is a self-coded personal portfolio which features some of my github projects as well as my resume and technical skills.
 
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [Sriramprasath04](https://github.com/Sriramprasath04/Personal-Portfolio). Thanks!
+You can fork this repo to modify and make changes of your own.
 
 ## Built With
-
-<a href="https://sriramprasath04.github.io/Personal-Portfolio/" target="_blank">My personal portfolio</a> which features some of my github projects as well as my resume and technical skills.<br/>
 
 This project was built using these technologies.
 
@@ -18,8 +17,16 @@ This project was built using these technologies.
 **📱 Fully Responsive**
 
 
-### Show your support
+**Don't forget to star the repository if you find it useful or interesting!⭐**
 
-Give a ⭐ if you like this website!
 
-Happy Coding...
+
+## Project-Link
+Visit link:- https://sriramprasath04.github.io/Personal-Portfolio/
+
+## Screen-shot of Project!
+![page](https://github.com/Sriramprasath04/Personal-Portfolio/assets/109743739/7971b2c0-0e64-4095-a109-dc91d0ee67f7)
+
+
+**Happy coding!❤️😍**
+
