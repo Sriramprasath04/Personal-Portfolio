@@ -25,7 +25,8 @@ This project was built using these technologies.
 Visit link:- https://sriramprasath04.github.io/Personal-Portfolio/
 
 ## Screen-shot of Project!
-![page](https://github.com/Sriramprasath04/Personal-Portfolio/assets/109743739/7971b2c0-0e64-4095-a109-dc91d0ee67f7)
+![sriramprasath04 github io](https://github.com/Sriramprasath04/Personal-Portfolio/assets/109743739/8442c520-0410-43a4-82e3-879e61062b1c)
+
 
 
 **Happy coding!❤️😍**
